@@ -53,7 +53,6 @@ void scale(int x, int y ) {
   }
     
    
-
  
 
 }
